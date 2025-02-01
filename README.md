@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxiFanara
 - 👀 I’m interested in new technologies, cyber security and programming languages 
-- 🌱 I’m currently learning spring boot framework
-- 💞️ I’m looking to collaborate on spring boot projects
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on laravel projects
 - 📫 How to reach me | e-mail rmfanara@gmail.com |
 
 <!---
